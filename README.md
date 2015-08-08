@@ -28,7 +28,7 @@ Hello, Bashful!
 The splat operater, placed before a parameter in a method signature (as above) tells the method to accept an unlimited number of arguments as an **array**. Let's take a look. We're going to play around with our `name_greeting` method in IRB using Pry. (Yes, you can use Pry inside IRB. Yes, it is awesome.)
 
 * Drop into IRB in your terminal and type the following command `require 'pry'`. You should see a return value of `=> true`. That let's you know that you are able to use Pry. 
-* Copy and pase the following method, with the binding.pry in it: 
+* Copy and paste the following method, with the binding.pry in it: 
 
 ```ruby
 def name_greeting(*names)

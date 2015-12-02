@@ -106,3 +106,4 @@ It is important to note that when defining a method to accept a required argumen
 ## Resources 
 
 * [The Strange Ruby Splat](https://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/)
+<a href='https://learn.co/lessons/splat-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
